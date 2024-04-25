@@ -1,1 +1,2 @@
 # python-ap1-challenge
+I truly enjoyed this module challenge! I felt it was super applicable to real life and is something that can be used often. My only issues were with certain parems on my map, but my maps still displayed properly and accuratley, the issue being WARNING:param.main: text option not found for points plot with bokeh; similar options include: [].  I looked over things after a few troubleshooting attempts and decided it was not super important.  I have included screenshots of my maps with examples of pin points and their labels in this repo.  
